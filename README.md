@@ -68,8 +68,8 @@ project/
 1. Установите Docker и Docker Compose.
 2. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/yourusername/nginx-proxy-chain.git
-   cd nginx-proxy-chain
+   git clone https://github.com/wineperm/Test_task_2.git
+   cd Test_task_2
    ```
 3. Запустите стенд:
    ```bash
